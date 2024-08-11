@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Data Driven Techniques for Anomalies Detection in Radon Time Series for Earthquake Prediction",
+    "imageSrc": "projects/project.png",
+    "description": "Enhance earthquake detection with advanced time series models like N-HiTS and NBEATSx, which excel at capturing complex temporal patterns in seismic data.",
+    "skills": ["Machine Learning", "N-HiTS", "Deep Learning"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Monkey Detection System Using YOLOv7",
+    "imageSrc": "projects/project.png",
+    "description": "A Monkey Detection System using YOLOv7 uses object detection algorithms to identify and track monkeys in real-time video feeds accurately.",
+    "skills": [" Ultralytics", "Flask", "YOLOV7", "Deep Learning"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "AskMe.com",
+    "imageSrc": "projects/AskMe.png",
+    "description": "AskMe.com connects users with expert answers and diverse solutions, offering a user-friendly platform for inquiries with efficient search and filter options.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Swimming Training School Registration Portal:",
+    "imageSrc": "projects/swimminh.png",
+    "description": "Developed a comprehensive portal with differant tools enabling users to search, register, and manage swimming training sessions, enhanced with feedback systems, payment processing, and cancellation features.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
